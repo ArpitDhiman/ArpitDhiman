@@ -25,9 +25,4 @@
 
 ---
 
-## 📫 Let's Connect
-- Always open to learning, collaborating, and building cool stuff!
-
----
-
 ⭐ *“Design meets code. Learning never stops.”*
